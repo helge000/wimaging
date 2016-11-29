@@ -1,3 +1,7 @@
+# Deprecation warning
+
+**THIS REPOSITORY HAS BEEN DEPRECATED IN FAVOR FOR ORIGINAL [wimaging](https://github.com/kireevco/wimaging)**
+
 # Provision Windows hosts with [Foreman](http://theforeman.org/)
 
 [![Join the chat at https://gitter.im/helge000/wimaging-ng](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/helge000/wimaging-ng?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
